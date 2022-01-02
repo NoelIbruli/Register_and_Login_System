@@ -26,4 +26,4 @@ Language Topics:
 * Pass-by-reference
 * Modularization
 * Header Files
-* User-defined datat types (structs)
+* User-defined data types (structs)
